@@ -1,1 +1,1 @@
-echo "sama madhusudhanreddy"
+echo "sama sms madhusudhanreddy"
